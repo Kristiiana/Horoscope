@@ -1,5 +1,7 @@
-# Horoscope
-# CS375-finalProject-HOROSCOPE WEBSITE
+# Horoscope Website
+
+CS375-finalProject (Spring 2020) 
+
 How to reach Horoscope Website:
 
 Part 1
