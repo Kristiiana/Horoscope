@@ -1,5 +1,7 @@
 # Horoscope Website
 
+Authors: Kristiana Gerxhi, Neha Kamireddi
+
 CS375-finalProject (Spring 2020) 
 
 How to reach Horoscope Website:
