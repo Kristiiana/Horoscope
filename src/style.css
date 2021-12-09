@@ -1,0 +1,125 @@
+h1 {  
+	color: white;  
+	position: relative;
+	left:100px;
+	font-weight:bold;
+	font-size: 35px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}   
+
+
+body{
+	background-image: url("/Horoscope2.PNG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+p{
+	position: relative;
+	left: 150px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+td{  
+	color: white;  
+	font-size : 22px;
+	font-weight: bold;
+	position: relative;
+	left: 150px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}   
+
+
+.api-text{
+	background-color: rgba(255,255,255,0.8);
+	color:rgba(77, 0, 57);  
+	left: 80px;
+	position: center;  
+	font-size : 22px;
+	font-weight: bold;
+	position: relative;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding-right: 80px;
+}
+
+
+.db-text{
+	color: white;  
+	position: center;  
+	font-size : 22px;
+	font-weight: bold;
+	position: relative;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	left: 80px;
+}
+
+
+.dropdown{  
+	color: white;
+	padding: 1px 1px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	left: 150px;
+}
+
+
+.horoscope-button{
+	background-color: white;
+	padding: 15px 20px;
+	cursor: pointer;	
+	top:200px;
+	left: 20px;
+	border: 2px solid white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	filter: grayscale(60%);
+}
+
+
+.sign-button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding:  10px 15px;
+	cursor: pointer;
+	filter: grayscale(10%);
+}
+
+
+.nav-button{
+	background-color: rgba(229, 128, 255,0.4);
+	color: white;
+	padding: 12px 50px;
+	cursor: pointer;	
+	font-weight: bold;
+	font-size: 21px;
+	top:150px;
+	left: 20px;
+	border: 2px solid black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+.home-button{
+	background-color: rgba(229, 128, 255,0.3);
+	color: white;
+	padding: 10px 20px;
+	cursor: pointer;	
+	font-weight: bold;
+	font-size: 18px;
+	position: relative;
+	top:10px;
+	left: 30px;
+	border: 2px solid black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+.text{
+	color: white;
+}
