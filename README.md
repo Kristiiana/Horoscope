@@ -2,7 +2,7 @@
 
 Authors: Kristiana Gerxhi, Neha Kamireddi
 
-CS375-finalProject (Spring 2020) 
+CS375-finalProject (Summer 2020) 
 
 How to reach Horoscope Website:
 
